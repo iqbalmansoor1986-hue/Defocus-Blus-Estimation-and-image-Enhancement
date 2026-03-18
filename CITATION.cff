@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "DeFocus Blur Plots"
+type: software
+version: 1.0.0
+date-released: 2026-03-18
+abstract: "Lightweight blur-adaptive enhancement for robust YOLOv8n object detection and comparative evaluation under degraded visual conditions."
+authors:
+  - family-names: "Mansoor"
+    given-names: "Iqbal"
+repository-code: "https://github.com/iqbalmansoor1986-hue/Defocus-Blus-Estimation-and-image-Enhancement"
+url: "https://github.com/iqbalmansoor1986-hue/Defocus-Blus-Estimation-and-image-Enhancement"
+license: "MIT"
+keywords:
+  - object detection
+  - blur estimation
+  - image enhancement
+  - YOLOv8n
+  - Laplacian variance
+  - robustness evaluation
