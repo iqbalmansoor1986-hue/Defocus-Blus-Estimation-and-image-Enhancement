@@ -1,4 +1,5 @@
-# DeFocus Blur Plots
+# Defocus Blus Estimation and image Enhancement
+
 
 A lightweight experimental notebook for evaluating blur-aware image enhancement in object detection pipelines. The project applies blur simulation, adaptive sharpening, and blur estimation before passing images to a YOLOv8n detector, then visualizes comparative results through detection outputs and performance plots.
 
